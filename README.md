@@ -31,3 +31,4 @@ Press `Cmd + B` / `Ctrl + B`
 Licensed under the MIT license.
 
 Copyright (c) 2015 [@akki777](http://github.com/akki777).
+
